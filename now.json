@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <meta charset="utf-8" >
+  <title>Мой первый сайт</title>
+ <body>
+  <header>
+    <div>
+    Логотип
+    111
+    </div>
+    <nav>
+      <a>222</a>
+      <a>333</a>
+    </nav>
+  </header>
+  <setion>
+    <main>
+      <h1>
+      Заголовок
+      </h1>
+      <p>
+      2222222222222222222222
+      </p>
+      <button>
+      кнопка
+      </button>
+    </main>
+    <div>
+    картинка
+    </div>
+  </setion>
+ </body>
+  </html>
